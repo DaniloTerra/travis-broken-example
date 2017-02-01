@@ -1,4 +1,4 @@
-# travis-broken-example [![Build Status](https://img.shields.io/travis/DaniloTerra/travis-broken-example.svg)]
+# Project [![Build Status](https://img.shields.io/travis/DaniloTerra/travis-broken-example.svg)](https://travis-ci.org/DaniloTerra/travis-broken-example)
 
 Alterado aqui
 
